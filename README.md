@@ -17,5 +17,5 @@ Test Classes are located in the 'org.ej.codedefintions' package in the 'src/test
 Feature Files are located in the 'src/test/resources/Features' directory.
 
 
-Prerequisites
+Prerequisites:
 To run these test files, please ensure that you have included the necessary dependencies listed in the pom.xml file. Additionally, you will need to have the appropriate WebDriver executables for various browsers such as Chrome, Firefox, and Edge.
